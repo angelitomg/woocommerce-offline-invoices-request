@@ -7,5 +7,3 @@ Tested up to: 4.6
 This plugin allows customers to request offline invoices. Invoices must be generated and sent to customers by shop admin.
 
 == Description ==
-
-This plugin allows customers to request offline invoices. Invoices must be generated and sent to customers by shop admin.
