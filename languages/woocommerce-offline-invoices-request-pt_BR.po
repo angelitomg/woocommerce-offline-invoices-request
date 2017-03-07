@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Offline Invoices Request\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-06 10:52+0000\n"
+"PO-Revision-Date: 2017-01-06 10:59+0000\n"
+"Last-Translator: amglabs <contato@amglabs.net>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt-BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: class-woocommerce-offline-invoices-request.php:7
+#: class-woocommerce-offline-invoices-request.php:8
+#: class-woocommerce-offline-invoices-request.php:29
+msgid "Offline Invoices Request"
+msgstr "Solicitação de Faturas Offline"
+
+#: class-woocommerce-offline-invoices-request.php:20
+msgid "Enable/Disable"
+msgstr "Ativar/Desativar"
+
+#: class-woocommerce-offline-invoices-request.php:22
+msgid "Enable Offline Invoices Request"
+msgstr "Ativar Solicitação de Faturas Offline"
+
+#: class-woocommerce-offline-invoices-request.php:26
+msgid "Method Title"
+msgstr "Título do Método"
+
+#: class-woocommerce-offline-invoices-request.php:28
+msgid "This controls the title"
+msgstr "Isto controla o título"
+
+#: class-woocommerce-offline-invoices-request.php:33
+msgid "Max Number of Invoices"
+msgstr "Máximo de Faturas"
+
+#: class-woocommerce-offline-invoices-request.php:35
+msgid "This set the maximum invoices number that client can request"
+msgstr "Isto define o número máximo de faturas que o cliente pode solicitar"
+
+#: class-woocommerce-offline-invoices-request.php:36
+msgid "5"
+msgstr "5"
+
+#: class-woocommerce-offline-invoices-request.php:40
+msgid "Invoice Fee"
+msgstr "Taxa por Fatura"
+
+#: class-woocommerce-offline-invoices-request.php:42
+msgid "Fee added on each requested invoice"
+msgstr "Taxa adicionada em cada fatura solicitada"
+
+#: class-woocommerce-offline-invoices-request.php:43
+msgid "0"
+msgstr "0"
+
+#: class-woocommerce-offline-invoices-request.php:47
+msgid "Info Message"
+msgstr "Mensagem Informativa"
+
+#: class-woocommerce-offline-invoices-request.php:49
+msgid "Message that client will see when select this payment method"
+msgstr ""
+"Mensagem que será exibida ao cliente quando ele selecionar este método de "
+"pagamento"
+
+#: class-woocommerce-offline-invoices-request.php:50
+msgid ""
+"Invoices will be generated and sent to your e-mail within 2 business days."
+msgstr "As faturas serão geradas e enviadas ao seu e-mail em até 2 dias úteis"
+
+#: class-woocommerce-offline-invoices-request.php:64
+msgid "Offline Invoices Request Settings"
+msgstr "Configuração da Solicitação de Faturas Offline"
+
+#: class-woocommerce-offline-invoices-request.php:84
+msgid "Awaiting payment"
+msgstr "Aguardando pagamento"
+
+#. Name of the plugin
+msgid "WooCommerce Offline Invoices Request"
+msgstr "WooCommerce Solicitação de Faturas Offline"
+
+#. Description of the plugin
+msgid "Request offline invoices as payment method"
+msgstr "Solicite faturas offline como método de pagamento"
+
+#. Author of the plugin
+msgid "AMG Labs"
+msgstr "AMG Labs"
+
+#. Author URI of the plugin
+msgid "https://amglabs.net"
+msgstr "https://amglabs.net"
