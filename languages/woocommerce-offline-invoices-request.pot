@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-06 10:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: class-woocommerce-offline-invoices-request.php:7
+#: class-woocommerce-offline-invoices-request.php:8
+#: class-woocommerce-offline-invoices-request.php:29
+msgid "Offline Invoices Request"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:20
+msgid "Enable/Disable"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:22
+msgid "Enable Offline Invoices Request"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:26
+msgid "Method Title"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:28
+msgid "This controls the title"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:33
+msgid "Max Number of Invoices"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:35
+msgid "This set the maximum invoices number that client can request"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:36
+msgid "5"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:40
+msgid "Invoice Fee"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:42
+msgid "Fee added on each requested invoice"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:43
+msgid "0"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:47
+msgid "Info Message"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:49
+msgid "Message that client will see when select this payment method"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:50
+msgid ""
+"Invoices will be generated and sent to your e-mail within 2 business days."
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:64
+msgid "Offline Invoices Request Settings"
+msgstr ""
+
+#: class-woocommerce-offline-invoices-request.php:84
+msgid "Awaiting payment"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Offline Invoices Request"
+msgstr ""
+
+#. Description of the plugin
+msgid "Request offline invoices as payment method"
+msgstr ""
+
+#. Author of the plugin
+msgid "AMG Labs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://amglabs.net"
+msgstr ""
